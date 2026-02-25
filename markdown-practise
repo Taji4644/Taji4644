@@ -1,13 +1,17 @@
 
-# My heading 
-**bold text**
-- Item one
-- Item two
-- Item three
-1. First step 
-2. second step
+# My heading
+##heading 2 My Learning Goals
+###heading 3 This Semester
+**bold text**inline code
+- TensorFlow
+- GitHub Actions for CI/CD
+- NLP with SpaCy
+1. git add 
+2. git commit -m
 >This is a blockquote.Use it to highlight important information 
 'code here'
-| Name | Role| Status
+| Tool| Purpose | Link |
+|      |        |       |
+|      |         |       |
 [×]
 ---
