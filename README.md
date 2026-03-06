@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm [Michael Mwangi]
+<!--# Hi, I'm  [Michael Mwangi]
 
 ## About Me
 - I'm currently learning computer programming .
